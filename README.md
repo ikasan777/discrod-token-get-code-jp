@@ -6,7 +6,7 @@
 
 ## 一番最初にこれをするにゃ！
 ```bash
-npm i axios readline childProcess chalk fs
+npm i axios readline chalk fs
 ```
 
 
